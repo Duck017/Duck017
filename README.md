@@ -2,7 +2,7 @@
 - 👀 I’m interested in dev and finance
 - 🌱 I’m currently learning python for finance
 - 💞️ I’m looking to collaborate on anything that is related to finance 
-- 📫 How to reach me https://www.linkedin.com/in/akshay-malu-b7920a234/
+- 📫 How to reach me https://www.linkedin.com/in/akshaymalu/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm just a beginner and am exploaring and willing to learn!
 
